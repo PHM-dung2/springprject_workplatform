@@ -39,7 +39,7 @@
 ## 👨‍🏫 프로젝트 소개
 
 <p align="center">
-  <img src="" />
+  <img src="https://github.com/user-attachments/assets/634caa42-633f-44f4-a1ec-88ae62ba240c" />
 </p>
 
  사내 메신저와 문서 결재, 사내 익명 게시판 기능이 결합된 그룹웨어입니다. 
