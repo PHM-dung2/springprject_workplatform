@@ -24,15 +24,12 @@
 
 <br/>
 
-&nbsp;&nbsp; 🎬 [[ 프로젝트 시연영상 링크 ]](https://youtu.be/MDLDmTVVesE)
+&nbsp;&nbsp; 🎬 [[ 프로젝트 시연영상 링크 ]]()
 <br/> <br/>
 
-&nbsp;&nbsp; 📋 [[ 프로젝트 PPT ]](https://www.canva.com/design/DAGm7UhNL1Q/J-85BA3XQeJ8cKC9Ggf1mw/edit?utm_content=DAGm7UhNL1Q&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+&nbsp;&nbsp; 📋 [[ 프로젝트 PPT ]](https://www.canva.com/design/DAGjSAxv8rQ/01Jq6Tg2-5dZUauaqq5vKA/edit?ui=eyJIIjp7IkEiOnRydWV9fQ)
 <br/> <br/>
 
-&nbsp;&nbsp; 📲 [[ 앱 프로젝트 (GitHub) ]](https://github.com/PHM-dung2/springproject_devconnect_app)
-
- 
 <br/>
 <div align="right">
   
@@ -46,11 +43,13 @@
   <img src="https://github.com/user-attachments/assets/7ded3953-9e08-4db2-8c60-3afbea4bca5f" />
 </p>
 
- 프리랜서 개발자와 기업의 프로젝트를 중개하는 중개플랫폼입니다. 
+ 사내 메신저와 문서 결재 기능이 결합된 그룹웨어입니다. 
  <br/><br/>
- 기업이 프로젝트를 등록하면, 프리랜서 개발자들이 자유롭게 지원하여 매칭이 이루어지며, 프리랜서의 **레벨 시스템**을 통해 개발자의 역량을 직관적으로 판단할 수 있습니다.
+ 업무시에 사용하는 플랫폼이 점차 증가함에 따라 메신저와 결재, 사내 게시판을 결합하여 **원활한 소통과 효율적인 결재 시스템**을 구축했습니다.
  <br/><br/>
- 또한, **기업 평점과 요구 기술 스택과의 적합도를 기반으로 프로젝트를 추천해주는 기능**도 제공하여 보다 효율적이고 신뢰도 높은 매칭이 가능하도록 설계되었습니다.
+ 본 그룹웨어 시스템은 현재 사내 전용 서버에서 구동되지만,
+ <br/><br/>
+ 요구에 따라 **SaaS** 모델로 외부 기업에 서비스 제공하거나, **PaaS** 환경에서 자동 배포 및 확장성을 염두에 두고 설계했습니다.
  
 <br/>
 <div align="right">
@@ -62,8 +61,8 @@
 ## ⏱ 개발기간
 
 
-- 2025.04.14 ~ 2024.05.13(1달)
-- [개발 일정 링크](https://docs.google.com/spreadsheets/d/1Wh5a-Tiyy4bvsfPYyM7Am1z8RW1YDjXyTb0iegUJqME/edit?gid=1386834576#gid=1386834576)
+- 2025.03.04 ~ 2024.03.31(28일)
+- [[ 개발 일정 링크 ]](https://docs.google.com/spreadsheets/d/1j31wi11cIKqj6tWJybmSksGnHso9XI9-XHC6YOSPvlk/edit?gid=1386834576#gid=1386834576)
 
 <br/>
 <div align="right">
@@ -88,15 +87,13 @@
 </table>
 
 
-💡 박희만 : **조장, 공통 레이아웃 · 컴포넌트 배포**, 회원(개발자) 기능, 프로젝트 추천 알고리즘, 개발자 레벨링 로직
-
-💡 한상범 : 회원(기업)기능 , 일일 체크리스트 작성
-
-💡 한웅재 : 프로젝트 기능 , 프로젝트 신청 기능 , GIT 관리 , AWS 배포
-
-💡 이민진 : 기업평가 기능 , 개발자 평가 기능 , PPT(캔바) 관리
-
-💡 김리원 : 관리자 전용 웹 어드민 전체 구현 , PPT(캔바) 관리
+💡 박희만 : **조장, 공통 레이아웃 · 컴포넌트 배포**, 보고서 결재 기능, **해시 암호화 함수 구현**
+<br/><br/>
+💡 김도하 : **사내 메신저 기능, 채팅 알림 기능(웹소켓)**, 파일 업로드 및 다운로드 구현, 캔바 담당
+<br/><br/>
+💡 서진석 : **익명 게시판 기능**, 좋아요 기능 구현
+<br/><br/>
+💡 김리원 : **인사관리 권한부여**, 사원 로그인 기능, GIT 담당
 
 <br/>
 <div align="right">
