@@ -44,7 +44,9 @@
 
  사내 메신저와 문서 결재, 사내 익명 게시판 기능이 결합된 그룹웨어입니다. 
  <br/><br/>
- 업무시에 사용하는 플랫폼이 점차 증가함에 따라 **메신저와 결재, 소통 창구를 결합하여 직원 간의 원활한 소통과 효율적인 결재 시스템**을 구축하고자 했습니다. 
+ 업무시에 사용하는 플랫폼이 점차 증가함에 따라 **메신저와 결재, 소통 창구를 결합하여**
+ <br/><br/>
+ **직원 간의 원활한 소통과 효율적인 결재 시스템**을 구축하고자 했습니다. 
  <br/><br/>
  본 그룹웨어 시스템은 현재 사내 전용 서버에서 구동되지만,
  <br/><br/>
@@ -73,14 +75,13 @@
 ## 🙋‍♂️ 개발자 소개
 
 
-<table>
+<table height="180" >
   <tbody>
     <tr>
-     <td align="center"><a href="https://github.com/PHM-dung2"><img src="" width="100px;"  alt=""/><br /><sub><b> 박희만 </b></sub></a><br /></td>
-     <td align="center"><a href="https://github.com/magnoria"><img src="" width="100px;" alt="" /><br /><sub><b> 한상범 </b></sub></a><br /></td>
-     <td align="center"><a href="https://github.com/hanu1229"><img src="" width="100px;" alt=""/><br /><sub><b> 한웅제 </b></sub></a><br /></td>
-     <td align="center"><a href="https://github.com/leeminjin0827"><img src="" width="100px;" alt=""/><br /><sub><b> 이민진 </b></sub></a><br /></td>
-     <td align="center"><a href="https://github.com/riwon-sys"><img src="" width="100px;" alt=""/><br /><sub><b> 김리원 </b></sub></a><br /></td>
+     <td align="center"><a href="https://github.com/PHM-dung2"><img src="" width="100"  alt=""/><br /><sub><b> 박희만 </b></sub></a><br /></td>
+     <td align="center"><a href="https://github.com/Kimdohaaa"><img src="https://github.com/user-attachments/assets/d62eedc2-6e26-4457-9858-49416fd7e9d7" width="100px;" alt="" /><br /><sub><b> 김도하 </b></sub></a><br /></td>
+     <td align="center"><a href="https://github.com/jeenimari"><img src="https://github.com/user-attachments/assets/772ed025-9627-43c8-ab5b-97ffd2367c62" width="100" alt=""/><br /><sub><b> 서진석 </b></sub></a><br /></td>
+     <td align="center"><a href="https://github.com/riwon-sys"><img src="https://github.com/user-attachments/assets/b47fa3b5-2532-4ce0-b6e8-92b152adf78d" width="100" alt=""/><br /><sub><b> 김리원 </b></sub></a><br /></td>
      <tr/>
   </tbody>
 </table>
