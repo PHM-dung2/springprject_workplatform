@@ -12,11 +12,10 @@
 - [2. 프로젝트 소개](#-프로젝트-소개)
 - [3. 개발기간](#-개발기간)
 - [4. 개발자 소개](#%EF%B8%8F-개발자-소개)
-- [5. 서비스 아키텍처](#%EF%B8%8F-서비스-아키텍처)
-- [6. 주요 기능](#-주요-기능)
-- [7. 개발 환경](#-개발-환경)
-- [8. 기술 스택](#-기술-스택)
-- [9. API 및 라이브러리](#%EF%B8%8F-api-및-라이브러리)
+- [5. 주요 기능](#-주요-기능)
+- [6. 개발 환경](#-개발-환경)
+- [7. 기술 스택](#-기술-스택)
+- [8. API 및 라이브러리](#%EF%B8%8F-api-및-라이브러리)
 <br/>
 
 
@@ -24,7 +23,7 @@
 
 <br/>
 
-&nbsp;&nbsp; 🎬 [[ 프로젝트 시연영상 링크 ]]()
+&nbsp;&nbsp; 🎬 [[ 프로젝트 시연영상 링크 ]](https://www.youtube.com/watch?v=ZNwyuOCJkPc)
 <br/> <br/>
 
 &nbsp;&nbsp; 📋 [[ 프로젝트 PPT ]](https://www.canva.com/design/DAGjSAxv8rQ/01Jq6Tg2-5dZUauaqq5vKA/edit?ui=eyJIIjp7IkEiOnRydWV9fQ)
@@ -40,12 +39,12 @@
 ## 👨‍🏫 프로젝트 소개
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/7ded3953-9e08-4db2-8c60-3afbea4bca5f" />
+  <img src="" />
 </p>
 
- 사내 메신저와 문서 결재 기능이 결합된 그룹웨어입니다. 
+ 사내 메신저와 문서 결재, 사내 익명 게시판 기능이 결합된 그룹웨어입니다. 
  <br/><br/>
- 업무시에 사용하는 플랫폼이 점차 증가함에 따라 메신저와 결재, 사내 게시판을 결합하여 **원활한 소통과 효율적인 결재 시스템**을 구축했습니다.
+ 업무시에 사용하는 플랫폼이 점차 증가함에 따라 **메신저와 결재, 소통 창구를 결합하여 직원 간의 원활한 소통과 효율적인 결재 시스템**을 구축하고자 했습니다. 
  <br/><br/>
  본 그룹웨어 시스템은 현재 사내 전용 서버에서 구동되지만,
  <br/><br/>
@@ -102,28 +101,11 @@
   
 </div>
 
-## ⚙️ 서비스 아키텍처
-
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/1c860ce5-812c-4a63-bed3-1abf7fb76aee" />
-</p>
-
-<br/>
-
-**Flutter(모바일)와 React(웹)** 클라이언트로부터 **JWT 기반 인증 · 인가**를 거쳐, **Spring 내장 톰캣**으로 구성된 **마이크로서비스**들이 요청을 처리하며, 토큰은 **Redis**에서 관리되고, 전체 인프라는 **AWS EC2, RDS, S3** 기반으로 운영됩니다. 
-
-<br/>
-<div align="right">
-  
-  <a href="#목차"> 목차로 </a>
-  
-</div>
-
 ## 📌 주요 기능
 
 ![Image](https://github.com/user-attachments/assets/fee241b6-8cdb-44fd-abbe-38868400e181)
 
-- **개발자와 회사가 서로를 평가**
+- **사내 메신저 기능**
   - 평가 및 점수를 추가함으로써 프로젝트 선택 및 판단 가능
 
 <br/><br/>
@@ -204,7 +186,7 @@
 <img src="https://img.shields.io/badge/JJWT-ED8B00.svg?style=for-the-badge&logo=jsonwebtokens&logoColor=white" alt="JJWT" />&nbsp;
 <img src="https://img.shields.io/badge/Lombok-EA3324.svg?style=for-the-badge&logo=java&logoColor=white" alt="Lombok" />&nbsp;
 
-- [**RESTful API 명세서**](https://docs.google.com/spreadsheets/d/1Haqee1AKGxATcJow_SI67jj3wwnm8xayMNDKzFov3vU/edit?gid=1854615573#gid=1854615573)
+- [**RESTful API 명세서**]()
 
 <br/>
 <div align="right">
