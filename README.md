@@ -42,17 +42,15 @@
   <img src="https://github.com/user-attachments/assets/634caa42-633f-44f4-a1ec-88ae62ba240c" />
 </p>
 
- 이 프로젝트는 사내 메신저, 전자 결재, 익명 게시판 기능을 통합한 협업 플랫폼입니다.
+ 이 프로젝트는 **사내 메신저, 전자 결재, 익명 게시판 기능을 통합한 협업 플랫폼**입니다.
  <br/><br/>
  최근 기업 내 커뮤니케이션 도구가 과도하게 분산되면서, 오히려 협업 효율이 저하되는 문제가 발생하고 있습니다. 
  <br/><br/>
- 이를 해결하기 위해, 메신저, 결재, 자유로운 소통 창구를 하나의 플랫폼에 통합하여 
+ 이를 해결하기 위해, **메신저, 결재, 자유로운 소통 창구를 하나의 플랫폼에 통합**하여 
  <br/><br/>
- 직원 간 원활한 커뮤니케이션과 효율적인 결재 시스템을 구현하고자 했습니다.
+ **직원 간 원활한 커뮤니케이션과 효율적인 결재 시스템**을 구현하고자 했습니다.
  <br/><br/>
- 본 그룹웨어 시스템은 현재 사내 전용 서버에서 구동되지만,
- <br/><br/>
- 향후 필요에 따라 **SaaS** 모델로 외부 기업에 서비스 제공하거나, 
+ 본 그룹웨어 시스템은 현재 **사내 전용 서버에서 구동중**이지만, 향후 필요에 따라 **SaaS** 모델로 외부 기업에 서비스 제공하거나, 
  <br/><br/>
  **PaaS** 환경에서 **자동 배포 및 확장성**을 염두에 두고 설계했습니다.
  
@@ -138,8 +136,19 @@
 ![사내 게시판](https://github.com/user-attachments/assets/313526d4-62cc-424b-924b-27fca954bdae)
  
 - **익명 사내 게시판**
-  - 개발자 레벨과 랭킹을 통해 성장 동기부여
-  - 기업의 고용시 직관적인 평가 수치 제공
+  - 익명 기반 게시판 기능을 제공하여 **자유로운 사내 소통 유도**
+  - 메신저/결재 기능 외 **비공식 소통 채널**로 활용 가능
+  - 팀 간 갈등 해소, 건의사항 공유, 잡담 공간 등 다양한 용도로 활용 가능
+ 
+<br/><br/>
+
+![인사](https://github.com/user-attachments/assets/acb6789b-fee5-4b0f-a38e-c9ea6dbfc381)
+
+- **인사과 전용 사원 관리 기능**
+  - **인사과 계정으로 로그인**한 사용자만 접근 가능한 **사원 관리 전용 탭**을 제공
+  - 사원 등록 / 전체 사원 조회 기능 제공
+  - 역할 기반 권한 제어를 통해 정보 접근 제한 및 보안 강화
+
 
 <br/>
 <div align="right">
@@ -151,15 +160,22 @@
 ## 💻 개발 환경
 
 
-- **Version** : Java 17.0
+- **Version** : <img src="https://img.shields.io/badge/Java_17-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java 17" />&nbsp;
   
-- **IDE** : <img src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellijidea&logoColor=white" alt="IntelliJ IDEA" /> <img src="https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=androidstudio&logoColor=white" alt="Android Studio" />&nbsp;
+- **IDE** : <img src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellijidea&logoColor=white" alt="IntelliJ IDEA" />&nbsp;
+<img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VSCode" />&nbsp;
 
-- **BackEnd** : <img src="https://img.shields.io/badge/Java-007396.svg?style=for-the-badge&logo=java&logoColor=white" alt="Java" /> <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring" />&nbsp;
+- **BackEnd** : <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot" />&nbsp;
+
   
-- **FrontEnd** :  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />&nbsp;
+- **FrontEnd** :  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />&nbsp;
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />&nbsp;
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />&nbsp;
+
+
   
-- **협업도구** : <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
+- **협업도구** : <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">&nbsp;
+
 
 <br/>
 <div align="right">
@@ -171,12 +187,10 @@
 ## ⚒ 기술 스택
 
 
-- **DataBase** : <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"> <img src="https://img.shields.io/badge/Amazon%20RDS-527FFF.svg?style=for-the-badge&logo=amazonrds&logoColor=white" alt="Amazon RDS" />
-&nbsp;
+- **DataBase** : <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">&nbsp;
   
-- **server** : 
-<img src="https://img.shields.io/badge/Tomcat-10.1-F8DC75.svg?style=for-the-badge&logo=apachetomcat&logoColor=black" alt="Apache Tomcat" />&nbsp;
-<img src="https://img.shields.io/badge/AWS%20EC2-FF9900.svg?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS EC2" />&nbsp;
+- **server** : <img src="https://img.shields.io/badge/Apache%20Tomcat-10.1-FFF3C2?style=for-the-badge&logo=apachetomcat&logoColor=black" />
+
 
 - **기획서 작성, 일정관리** : <img src="https://img.shields.io/badge/Excel-217346.svg?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="Microsoft Excel" /> 
 
@@ -193,10 +207,10 @@
 - **API** : <img src="https://img.shields.io/badge/RESTfulAPI-6DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white" alt="RESTful API" />
 
 - **라이브러리** : <img src="https://img.shields.io/badge/React-61DAFB.svg?style=for-the-badge&logo=react&logoColor=black" alt="React" />&nbsp;
-<img src="https://img.shields.io/badge/JJWT-ED8B00.svg?style=for-the-badge&logo=jsonwebtokens&logoColor=white" alt="JJWT" />&nbsp;
 <img src="https://img.shields.io/badge/Lombok-EA3324.svg?style=for-the-badge&logo=java&logoColor=white" alt="Lombok" />&nbsp;
+<img src="https://img.shields.io/badge/PageHelper-MyBatis%20Paging-4DB33D?style=for-the-badge&logo=databricks&logoColor=white" alt="PageHelper" />&nbsp;
 
-- [**RESTful API 명세서**]()
+- [[ **RESTful API 명세서** ]](https://docs.google.com/spreadsheets/d/1Vjxi6abfdfZT45zBau6aUj2rbkFgqRkEtl6hgrgFpzI/edit?gid=104803491#gid=104803491)
 
 <br/>
 <div align="right">
