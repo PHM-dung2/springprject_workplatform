@@ -110,6 +110,7 @@
 
 ![Image](https://github.com/user-attachments/assets/67cef6c8-95ee-417b-8384-2c7f99c8e57c)
 
+
 - **보고서 결재 및 실시간 알림**
   - 실무 보고서 양식을 반영하여 누구나 쉽게 작성 가능
   - 결재자는 서명란에서 선택, 전자 서명 적용
@@ -117,7 +118,9 @@
 
 <br/><br/>
 
-![보고서 목록](https://github.com/user-attachments/assets/ef62813c-d4e4-4c30-a220-b2ebec8ddcb4)
+![결재](https://github.com/user-attachments/assets/ba054334-2c83-4a9c-b60d-8bffc21a6917)
+![pdf 미리보기](https://github.com/user-attachments/assets/9d8f5288-e43b-4fd7-8fab-949e3d8c0e62)
+
 
 - **내가 쓴 보고서 목록 및 결재 목록**
   - 목록과 상세보기를 동시에 확인할 수 있어, 페이지 전환 없이 빠르게 내용을 조회
